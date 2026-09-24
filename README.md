@@ -1,5 +1,5 @@
 # Python-Learning 🐍
-
+大家好
 我是大一学生，正在从零学习编程与 GitHub。这个仓库记录我的 Python 学习全过程。
 
 ## 🎯 学习目标
@@ -32,3 +32,10 @@ git push
 - 廖雪峰 Python 教程（免费，中文）
 - 官方文档 docs.python.org/zh-cn
 - 《Python Crash Course》（中文版：Python 编程：从入门到实践）
+1. git add README.md
+2. git commit README.md
+3. git status
+4. git push
+   
+4. 
+4. 
