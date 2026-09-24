@@ -32,3 +32,4 @@ git push
 - 廖雪峰 Python 教程（免费，中文）
 - 官方文档 docs.python.org/zh-cn
 - 《Python Crash Course》（中文版：Python 编程：从入门到实践）
+2026-09-24：开始我的 Level 1 Git 训练！
