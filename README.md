@@ -1,5 +1,5 @@
 # Python-Learning 🐍
-
+大家好
 我是大一学生，正在从零学习编程与 GitHub。这个仓库记录我的 Python 学习全过程。
 
 ## 🎯 学习目标
